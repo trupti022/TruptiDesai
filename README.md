@@ -14,7 +14,7 @@ Hi there! 👋 I’m Trupti Desai, a passionate and detail-oriented AWS & DevOps
 
 ✅ Monitoring & Logging: AWS CloudWatch, ELK Stack
 
-------------------------------------------
+---
 📚 About Me
 
 🎓 Education: Bachelor's Degree in Electrical Engineering (2018)
