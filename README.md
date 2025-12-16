@@ -99,7 +99,7 @@ Hi there! 👋 I’m Trupti Desai, a passionate and detail-oriented AWS & DevOps
 
 📬 Connect with Me
 
-[💼 LinkedIn](www.linkedin.com/in/trupti-desai)
+[💼 LinkedIn](https://www.linkedin.com/in/trupti-desai)
 
 [📧 Email]:(desaitrupti650@gmail.com)
 
