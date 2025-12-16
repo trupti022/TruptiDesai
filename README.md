@@ -1,4 +1,4 @@
-#Trupti Desai | AWS & DevOps Engineer
+**Trupti Desai | AWS & DevOps Engineer**
 
 Hi there! 👋 I’m Trupti Desai, a passionate and detail-oriented AWS & DevOps Engineer with hands-on experience in:
 
