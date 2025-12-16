@@ -68,7 +68,7 @@ Hi there! 👋 I’m Trupti Desai, a passionate and detail-oriented AWS & DevOps
 
  - Technologies: AWS EC2, RDS, S3, Auto Scaling, Terraform
 
- - [➡️ Project Link](git@github.com:trupti022/AWS_MultitierProject.git)
+   [➡️ Project Link](git@github.com:trupti022/AWS_MultitierProject.git)
 
 ---
 
