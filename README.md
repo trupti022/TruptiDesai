@@ -15,7 +15,7 @@ Hi there! 👋 I’m Trupti Desai, a passionate and detail-oriented AWS & DevOps
 ✅ Monitoring & Logging: AWS CloudWatch
 
 ---
-📚 About Me
+**📚 About Me**
 
 🎓 Education: Bachelor's Degree in Electrical Engineering (2018)
 
@@ -37,7 +37,7 @@ Hi there! 👋 I’m Trupti Desai, a passionate and detail-oriented AWS & DevOps
 
 ---
 
-🚀 Skills & Technologies
+**🚀 Skills & Technologies**
 
 - Cloud Providers: AWS (EC2, S3, IAM, RDS, VPC, CloudFormation)
 
@@ -55,7 +55,7 @@ Hi there! 👋 I’m Trupti Desai, a passionate and detail-oriented AWS & DevOps
 
 ---
 
-🔥 My Projects
+**🔥 My Projects**
 
 1. 🧩 AWS Multi-Tier Architecture Deployment
 
@@ -87,7 +87,7 @@ Hi there! 👋 I’m Trupti Desai, a passionate and detail-oriented AWS & DevOps
 
 ---
 
-🏆 Certifications
+**🏆 Certifications**
 
  - 🎖️ AWS Certified Solutions Architect – Associate (In Progress)
 
@@ -97,10 +97,9 @@ Hi there! 👋 I’m Trupti Desai, a passionate and detail-oriented AWS & DevOps
 
 ---
 
-📬 Connect with Me
+**📬 Connect with Me**
 
 [💼 LinkedIn](https://www.linkedin.com/in/trupti-desai)
 
-[📧 Email]:(desaitrupti650@gmail.com)
 
 
