@@ -12,7 +12,7 @@ Hi there! 👋 I’m Trupti Desai, a passionate and detail-oriented AWS & DevOps
 
 ✅ Version Control & Collaboration: Git, GitHub
 
-✅ Monitoring & Logging: AWS CloudWatch, ELK Stack
+✅ Monitoring & Logging: AWS CloudWatch
 
 ---
 📚 About Me
@@ -21,14 +21,86 @@ Hi there! 👋 I’m Trupti Desai, a passionate and detail-oriented AWS & DevOps
 
 🏢 Work Experience:
 
-Mendix Developer @ Xceedance (May 2022 – May 2023)
+  - Mendix Developer @ Xceedance (May 2022 – May 2023)
 
-Operations Associate @ WNS (Sep 2019 – Nov 2021)
+  - Operations Associate @ WNS (Sep 2019 – Nov 2021)
+
+---
 
 🚀 Certifications:
 
-AWS Certified Solutions Architect – Associate (In Progress)
+  - AWS Certified Solutions Architect – Associate (In Progress)
 
-DevOps and Cloud Computing Certification from Intellipaat
+  - DevOps and Cloud Computing Certification from Intellipaat
 
 🎨 Passions Beyond Tech: I love dancing, teaching Zumba, creating Mandala art, and cooking!
+
+---
+
+🚀 Skills & Technologies
+
+- Cloud Providers: AWS (EC2, S3, IAM, RDS, VPC, CloudFormation)
+
+- CI/CD Tools: Jenkins, GitHub Actions, GitLab CI/CD
+
+- Infrastructure as Code (IaC): Terraform, CloudFormation
+
+- Configuration Management: Ansible
+
+- Containerization & Orchestration: Docker, Kubernetes
+
+- Scripting/Automation: Bash, YAML
+
+- Version Control: Git, GitHub
+
+---
+
+🔥 My Projects
+
+1. 🧩 AWS Multi-Tier Architecture Deployment
+
+ - Designed and deployed a multi-tier architecture on AWS using EC2, RDS, and S3.
+
+ - Implemented auto-scaling and load balancing for high availability.
+
+ - Technologies: AWS EC2, RDS, S3, Auto Scaling, Terraform
+
+---
+
+2. 📦 CI/CD Pipeline with Jenkins and Terraform
+
+ - Automated infrastructure provisioning using Terraform.
+
+ - Configured Jenkins to trigger deployment pipelines and manage infrastructure changes.
+
+ - Technologies: Jenkins, Terraform, AWS EC2, GitHub
+
+---
+
+3. ⚡ VPC with NAT Gateway and Subnets using Terraform
+
+ - Created a VPC with a NAT gateway, 1 public, and 2 private subnets.
+
+ - Secured private subnets while maintaining internet connectivity.
+
+ - Technologies: AWS VPC, NAT Gateway, Terraform
+
+---
+
+🏆 Certifications
+
+ - 🎖️ AWS Certified Solutions Architect – Associate (In Progress)
+
+ - 🎖️ DevOps & Cloud Computing Certification from Intellipaat
+
+ - 🎖️ Mendix Developer Certificate
+
+---
+
+📬 Connect with Me
+
+[💼 LinkedIn](www.linkedin.com/in/trupti-desai)
+
+[📧 Email]:(desaitrupti650@gmail.com)
+
+
