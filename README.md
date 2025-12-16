@@ -104,7 +104,7 @@ Hi there! 👋 I’m Trupti Desai, a passionate and detail-oriented AWS & DevOps
    
  - Ensured low latency and high availability through global endpoint routing.
 
-   [➡️ Project Link]() 
+   [➡️ Project Link](https://github.com/trupti022/EC2-Migration-Global-Accelerator) 
 
 **🏆 Certifications**
 
