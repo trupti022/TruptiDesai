@@ -1,5 +1,6 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trupti022&show_icons=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trupti022&layout=compact)
 
 Hi there! 👋 I’m Trupti Desai, a passionate and detail-oriented AWS & DevOps Engineer with hands-on experience in:
