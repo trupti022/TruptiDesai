@@ -1,5 +1,3 @@
-**Trupti Desai | AWS & DevOps Engineer**
-
 Hi there! 👋 I’m Trupti Desai, a passionate and detail-oriented AWS & DevOps Engineer with hands-on experience in:
 
 ✅ Cloud Infrastructure: AWS EC2, S3, VPC, RDS, CloudFormation
