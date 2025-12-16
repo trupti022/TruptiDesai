@@ -78,7 +78,9 @@ Hi there! 👋 I’m Trupti Desai, a passionate and detail-oriented AWS & DevOps
 
  - Configured Jenkins to trigger deployment pipelines and manage infrastructure changes.
 
- - Technologies: Jenkins, Terraform, AWS EC2, GitHub
+ - Technologies: Jenkins, Terraform, AWS EC2, GitHub, Docker, Ansible
+
+   [➡️ Project Link](https://github.com/trupti022/DevOps-CICD-Pipeline-Docker-Jenkins-Terraform)
 
 ---
 
