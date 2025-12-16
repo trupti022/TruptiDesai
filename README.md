@@ -3,10 +3,15 @@
 Hi there! 👋 I’m Trupti Desai, a passionate and detail-oriented AWS & DevOps Engineer with hands-on experience in:
 
 ✅ Cloud Infrastructure: AWS EC2, S3, VPC, RDS, CloudFormation
-✅ Containerization & Orchestration: Docker, Kubernetes, Helm
+
+✅ Containerization & Orchestration: Docker, Kubernetes
+
 ✅ CI/CD Automation: Jenkins, GitHub Actions, Terraform, Ansible
+
 ✅ Infrastructure as Code (IaC): Terraform, CloudFormation
+
 ✅ Version Control & Collaboration: Git, GitHub
+
 ✅ Monitoring & Logging: AWS CloudWatch, ELK Stack
 
 ------------------------------------------
