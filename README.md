@@ -94,6 +94,18 @@ Hi there! 👋 I’m Trupti Desai, a passionate and detail-oriented AWS & DevOps
 
 ---
 
+4. 🧩 EC2 Migration and Global Traffic Routing with AWS Global Accelerator
+
+ - Migrated an EC2 instance across regions using an AMI to enable disaster recovery.
+    
+ - Deployed identical applications in N. Virginia and Mumbai regions.
+   
+ - Configured AWS Global Accelerator to route traffic to the nearest region automatically.
+   
+ - Ensured low latency and high availability through global endpoint routing.
+
+   [➡️ Project Link]() 
+
 **🏆 Certifications**
 
  - 🎖️ AWS Certified Solutions Architect – Associate (In Progress)
