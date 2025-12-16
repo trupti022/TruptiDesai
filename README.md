@@ -8,7 +8,7 @@ Hi there! 👋 I’m Trupti Desai, a passionate and detail-oriented AWS & DevOps
 ✅ Infrastructure as Code (IaC): Terraform, CloudFormation
 ✅ Version Control & Collaboration: Git, GitHub
 ✅ Monitoring & Logging: AWS CloudWatch, ELK Stack
-
+-----------------------------------------------------------------------------------------------------------
 📚 About Me
 
 🎓 Education: Bachelor's Degree in Electrical Engineering (2018)
